@@ -133,13 +133,9 @@ const Nav = () => {
               <li><a href="#">Case Studies</a></li>
               <li className="dropdown">
                 <a href="#">Solutions</a>
-                <ul className="dropdown-menu">
-                  <li>
+               <ul className="dropdown-menu">
+                   <li>
                     <a href="#">Media Strategy</a>
-                    <ul className="sub-menu">
-                      <li><a href="#">PR</a></li>
-                      <li><a href="#">Media Buying</a></li>
-                    </ul>
                   </li>
                   <li><a href="#">Experiential Marketing</a></li>
                   <li><a href="#">Product Activation</a></li>
