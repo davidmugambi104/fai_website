@@ -1,0 +1,28 @@
+.charleson-container {
+  margin: 0;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* centers vertically */
+  align-items: center;     /* centers horizontally */
+  text-align: center;
+  padding: 2rem;
+  background: #fff;
+}
+
+.charleson-container h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-size: 3rem;
+  letter-spacing: 1px;
+  margin-bottom: 1.5rem; /* space below header */
+}
+
+.charleson-container p {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+  max-width: 800px;
+}
