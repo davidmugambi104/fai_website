@@ -4,6 +4,7 @@ import './components/home.css';
 import Hero from './components/hero.jsx';
 import WhatsApp from './components/whatsapp.jsx';
 import Charleson from './components/smdash.jsx';
+import ServicesPage from './components/service.jsx';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero/>
       </section>
       <Charleson/>
+      
       <WhatsApp/>
       <Footer />
     </div>

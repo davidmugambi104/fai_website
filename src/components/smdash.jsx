@@ -1,5 +1,6 @@
 import React from "react";
 import "./smdash.css"; // external css
+import ServicesPage from "./service.jsx"; // Importing the ServicesPage component
 
 const Charleson = () => {
   return (
@@ -17,6 +18,7 @@ const Charleson = () => {
         deeper emotional level, helping your brand thrive in the dynamic African
         market.
       </p>
+      <ServicesPage/>
     </div>
   );
 };
